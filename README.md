@@ -2,7 +2,7 @@
 
 A NodeJS app where a user can find the current Weather Forecast for any location in the world!
 
-###FEATURES:
+### FEATURES:
 
 > - HTTP JSON Endpoints using ExpressJS
 > - HTTP Requests using Fetch API
